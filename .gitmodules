@@ -1,0 +1,3 @@
+[submodule "themes/Hugo-Portfolio-Theme"]
+	path = themes/Hugo-Portfolio-Theme
+	url = https://github.com/ibar2/Hugo-Portfolio-Theme.git

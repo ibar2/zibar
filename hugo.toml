@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://zibar.me/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Zakariya Hassan'
+
+theme = "Hugo-Portfolio-Theme"
