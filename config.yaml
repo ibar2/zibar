@@ -202,15 +202,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/ibar2
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://linkedin.com/in/ibarz
           params:
-              icon: brand-twitter
+              icon: brand-linkedin
 
 related:
     includeNewer: true
