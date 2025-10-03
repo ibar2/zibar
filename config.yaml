@@ -57,7 +57,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/zak.jpg
+            src: /img/zak.jpg
 
     article:
         math: false
