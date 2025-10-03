@@ -18,7 +18,7 @@ languages:
         weight: 1
         params:
             sidebar:
-                subtitle: Zakariya Portfolio
+                subtitle: Personal Blog, Portfolio, and more
     
 
 services:
