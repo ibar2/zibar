@@ -2,6 +2,7 @@ baseurl: https://zibar.me/
 languageCode: en-us
 title: Zakariya Portfolio
 copyright: Zakariya
+theme: Hugo-Portfolio-Theme
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
 DefaultContentLanguage: en
