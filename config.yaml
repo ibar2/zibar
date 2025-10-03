@@ -56,8 +56,8 @@ params:
         subtitle: Personal Blog, Portfolio, and more
         avatar:
             enabled: true
-            local: true
-            src: /img/zak.jpg
+            local: false
+            src: "https://raw.githubusercontent.com/ibar2/zibar/main/static/img/zak.jpg"
 
     article:
         math: false
