@@ -1,6 +1,5 @@
 {
  "compilerOptions": {
-  "baseUrl": ".",
   "paths": {
    "*": [
     "..\\themes\\Hugo-Portfolio-Theme\\assets\\*"
