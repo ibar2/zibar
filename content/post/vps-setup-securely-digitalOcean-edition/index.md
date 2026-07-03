@@ -1,6 +1,6 @@
 +++
 date = '2026-07-02T21:32:01+03:00'
-draft = true
+draft = false
 title = 'Vps Droplet Setup Securely DigitalOcean Edition'
 tags = ["VPS", "DigitalOcean", "Security", "Ubuntu Server"]
 description = "How to securely configure vps droplet when you first create it"
