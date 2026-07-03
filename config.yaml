@@ -1,5 +1,5 @@
 baseurl: http://localhost:1313/
-languageCode: en-us
+locale: en-us
 title: Zakariya Portfolio
 copyright: Zakariya
 theme: Hugo-Portfolio-Theme
@@ -13,12 +13,12 @@ hasCJKLanguage: false
 
 languages:
     en:
-        languageName: English
+        label: English
         title: Zakariya Portfolio
         weight: 1
         params:
             sidebar:
-                subtitle: Personal Blog, Portfolio, and more
+                subtitle: Freelance Developer, AWS SAA Certified, and Perfomance Engineer 
     
 
 services:
